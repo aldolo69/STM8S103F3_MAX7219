@@ -1,5 +1,7 @@
 //STM8S103F3 board and MAX7219 led without external lib
 //C only. no C++ required.
+//seeduino core
+//https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
 
 
 // LED matrix modules with 64 LEDs
